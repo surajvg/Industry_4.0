@@ -147,3 +147,21 @@ The system ensures digital transformation of the GR to UD process. It connects G
 * Incorrect part number mapping logic.
 
 12. Approval & Sign-Off
+
+
+
+new requirements 
+
+1.Fetch Version and Finish from SAP Drawing
+
+fetch Version and Finish details from the SAP-provided drawing.
+
+
+2.Track Rejected GR Sent to Vendor and Returned
+
+System must track all rejected GR items sent back to vendor.
+
+
+
+3.Track Sample Orders and Bulk Orders
+
